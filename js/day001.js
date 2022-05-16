@@ -4,7 +4,7 @@ function multiply(a, b) {
 }
 
 //Even or Odd
-function even_or_odd(number) {
+function evenOrOdd(number) {
     if (number % 2 === 0) {
       return "Even"
     } else {
