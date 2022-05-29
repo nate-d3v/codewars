@@ -1,4 +1,4 @@
-//Count of positives / sum of negatives
+//Count of positives & sum of negatives
 function countPositivesSumNegatives(input) {
 	if (input === null || input.length === 0) {
 		return [];
