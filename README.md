@@ -1,6 +1,6 @@
 # Codewars
 
-After 180+ days of daily coding challenges I finally made it to the top 100 of my cohort as a way to celebrate the end of this learning journey
+After 180+ days of daily coding challenges I finally made it to the top 100 of my cohort as a way to celebrate the end of this part of my learning journey
 
 ![image](top100.JPG)
 
